@@ -4,9 +4,6 @@ layout: default
 
 ![Banner](assets/rcs.gif)
 
-
-> "What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.” ― Kurt Vonnegut
-
 ## Welcome to RCS
 River City Social is a monthly newsletter that shares in-person art and community events in the Shreveport/Bossier area. A list of local events will be sent directly to your email. Please use the links below to sign up for the newsletter and to submit events for the upcoming month. We are figuring out some technical details as we go so please bear with us as we improve. Design, timing, proofreading, etc, will take some time to get right. We hope this service will help people stay informed about local events without relying on increasingly dysfunctional (anti)social media platforms.
 * [Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSdGZgbxeuYw27NcABCqzqcBLtPyIIT5IrgcfGWGr5vTNfWkBw/viewform?usp=header)
@@ -24,3 +21,5 @@ River City Social is a monthly newsletter that shares in-person art and communit
 - River City Social does not sell your information or do anything with it other than send you event information.
 - We do not share corporate sales events. Sorry, Toyotathon!
 - We do not share racist or discriminatory events. Not sorry, KKK!
+
+> "What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.” ― Kurt Vonnegut
