@@ -102,9 +102,12 @@ p, ul, ol, dl, table, pre, blockquote {
   margin-bottom: 1rem;
 }
 
+li::marker {
+  color: #a9aac1;
+}
+
 ul, ol {
   padding-left: 1.5rem;
-  color: #a9aac1;
 }
 
 dd {
