@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/rcsheader.png)
+![Banner](assets/rcs.gif)
 
 
 > "What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.” ― Kurt Vonnegut
