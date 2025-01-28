@@ -6,7 +6,7 @@ layout: default
 
 ## Welcome to RCS
 River City Social is a monthly newsletter that shares in-person art and community events in the Shreveport/Bossier area. A list of local events will be sent directly to your email. Please use the links below to sign up for the newsletter and to submit events for the upcoming month.
-* [Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSdGZgbxeuYw27NcABCqzqcBLtPyIIT5IrgcfGWGr5vTNfWkBw/viewform?usp=header)
+* [Subscribe](https://rivercitysocials-newsletter.beehiiv.com/)
 * [Submit an event](https://docs.google.com/forms/d/e/1FAIpQLScT-VtioCOHWZJzlEp0VL7AO-qoFuxeCmqYxtz_Y30uAEJ5Jg/viewform?usp=header)
 
 ## Rules for events
